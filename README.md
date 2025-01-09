@@ -1,1 +1,2 @@
 # Simon-Game
+This project is a Simon Game, a memory challenge where players must repeat a sequence of colored buttons that light up in random order. As the game progresses, the sequence becomes longer and more difficult. Players must click the corresponding buttons to match the sequence and avoid making mistakes. This project is done using HTML, CSS and JavaScript/jQuery for implementing the game logic, handling user interactions, and managing animations.
